@@ -13,6 +13,7 @@
         <action name="Welcome" class="action.WelcomeUserAction">
             <result name="SUCCESS">/welcome_user.jsp</result>
             <result name="UNSUCCESS">/fail_user.jsp</result>
+
         </action>
 
     </package>
